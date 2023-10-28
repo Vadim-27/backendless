@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbackendless=self.webpackChunkbackendless||[]).push([[749],{749:function(e,n,s){s.r(n),s.d(n,{default:function(){return u}});var t="dummyList_titleSection__tvV1i",c=s(184),i=function(){return(0,c.jsx)("div",{children:(0,c.jsx)("h1",{className:t,children:"DummyList"})})},u=function(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)(i,{})})}}}]);
+//# sourceMappingURL=749.51d8c7f6.chunk.js.map
