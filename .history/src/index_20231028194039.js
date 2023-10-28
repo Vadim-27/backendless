@@ -6,7 +6,7 @@ import './index.scss';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/backendless">
+    <BrowserRouter basename="/tabs/dummyTable">
       <App />
     </BrowserRouter>
   </React.StrictMode>

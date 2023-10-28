@@ -2,7 +2,7 @@
   "name": "backendless",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vadim-27.github.io/backendless/tabs/dummyTable",
+  "homepage": "https://Vadim-27.github.io/tabs/backendless",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
