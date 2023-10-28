@@ -1,0 +1,4 @@
+
+const DummyChart = () => {
+  return <>dummyChart</>;
+}

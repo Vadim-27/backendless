@@ -1,0 +1,4 @@
+
+const DummyTable = () => {
+  return
+}

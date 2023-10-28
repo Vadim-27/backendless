@@ -1,0 +1,18 @@
+import { Routes, Route } from "react-router-dom";
+import Navbar from "modules/Navbar/Navbar";
+import { Suspense } from "react";
+
+import 
+
+export const App = () => {
+  return (
+    <>
+      <Suspense>
+        <Navbar />
+        <Routes>
+          {/* <Route path="/" element={dummyList} /> */}
+        </Routes>
+      </Suspense>
+    </>
+  );
+};
