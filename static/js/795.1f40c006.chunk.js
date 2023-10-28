@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbackendless=self.webpackChunkbackendless||[]).push([[795],{795:function(e,n,s){s.r(n);var u=s(689),a=s(791);n.default=function(){var e=(0,u.s0)();return(0,a.useEffect)((function(){e("/tabs/dummyTable")}),[e]),null}}}]);
+//# sourceMappingURL=795.1f40c006.chunk.js.map
