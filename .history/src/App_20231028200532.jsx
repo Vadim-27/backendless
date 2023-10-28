@@ -17,7 +17,7 @@ export const App = () => {
       <Suspense fallback={<p>...Loading</p>}>
         <Navbar />
         <Routes>
-          <Route path="/" element={<HomePage/>} />
+          <Route path="/" element={<HomePage />} />
           <Route path="/tabs/dummyList" element={<DummyListPage />} />
           <Route path="/tabs/dummyChart" element={<DummyChartPage />} />
           <Route path="/tabs/dummyTable" element={<DummyTablePage />} />
