@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/backendless/tabs/dummyTable/static/css/main.a044e63a.css",
-    "main.js": "/backendless/tabs/dummyTable/static/js/main.d09cfaf2.js",
+    "main.js": "/backendless/tabs/dummyTable/static/js/main.c31a574d.js",
     "static/css/120.801e1aa0.chunk.css": "/backendless/tabs/dummyTable/static/css/120.801e1aa0.chunk.css",
     "static/js/120.6b83c729.chunk.js": "/backendless/tabs/dummyTable/static/js/120.6b83c729.chunk.js",
     "static/css/749.89f2e51c.chunk.css": "/backendless/tabs/dummyTable/static/css/749.89f2e51c.chunk.css",
@@ -17,7 +17,7 @@
     "static/media/Jost-Regular.ttf": "/backendless/tabs/dummyTable/static/media/Jost-Regular.ca33bfb0214ee2e6936a.ttf",
     "index.html": "/backendless/tabs/dummyTable/index.html",
     "main.a044e63a.css.map": "/backendless/tabs/dummyTable/static/css/main.a044e63a.css.map",
-    "main.d09cfaf2.js.map": "/backendless/tabs/dummyTable/static/js/main.d09cfaf2.js.map",
+    "main.c31a574d.js.map": "/backendless/tabs/dummyTable/static/js/main.c31a574d.js.map",
     "120.801e1aa0.chunk.css.map": "/backendless/tabs/dummyTable/static/css/120.801e1aa0.chunk.css.map",
     "120.6b83c729.chunk.js.map": "/backendless/tabs/dummyTable/static/js/120.6b83c729.chunk.js.map",
     "749.89f2e51c.chunk.css.map": "/backendless/tabs/dummyTable/static/css/749.89f2e51c.chunk.css.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.a044e63a.css",
-    "static/js/main.d09cfaf2.js"
+    "static/js/main.c31a574d.js"
   ]
 }
