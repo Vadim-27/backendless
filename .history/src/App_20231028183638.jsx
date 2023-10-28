@@ -16,10 +16,10 @@ export const App = () => {
       <Suspense fallback={<p>...Loading</p>}>
         <Navbar />
         <Routes>
-          <Route index element={<DummyTablePage />} />
-          <Route path="/tabs/dummyList" element={<DummyListPage />} />
-          <Route path="/tabs/dummyChart" element={<DummyChartPage />} />
-          <Route path="/tabs/dummyTable" element={<DummyTablePage />} />
+          {/* <Route index element={<DummyTablePage />} /> */}
+          <Route path="tabs/dummyList" element={<DummyListPage />} />
+          <Route path="tabs/dummyChart" element={<DummyChartPage />} />
+          <Route path="tabs/dummyTable" element={<DummyTablePage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </Suspense>

@@ -13,13 +13,13 @@ const NotFoundPage = lazy(() => import('Pages/NotFoundPage/NotFoundPage'));
 export const App = () => {
   return (
     <div className="container">
-      <Suspense fallback={<p>...Loading</p>}>
+      <Suspense>
         <Navbar />
         <Routes>
           <Route index element={<DummyTablePage />} />
-          <Route path="/tabs/dummyList" element={<DummyListPage />} />
-          <Route path="/tabs/dummyChart" element={<DummyChartPage />} />
-          <Route path="/tabs/dummyTable" element={<DummyTablePage />} />
+          <Route path="tabs/dummyList" element={<DummyListPage />} />
+          <Route path="tabs/dummyChart" element={<DummyChartPage />} />
+          <Route path="tabs/dummyTable" element={<DummyTablePage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </Suspense>
